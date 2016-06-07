@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+1. Install.
+2. Get up and dance.
+3. Smile real bright.
 
 ## Development
 

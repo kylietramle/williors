@@ -1,5 +1,9 @@
 require "williors/version"
 
 module Williors
-  # Your code goes here...
+  class Willy
+    def dance
+      p "I like to move it, move it. Come on let's move in move it!"
+    end
+  end
 end
